@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    margin-top: 200px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Outfit";
+}
+
+img{
+    border-radius: 25px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.calosc{
+    border-radius: 25px;
+    text-align: center;
+    background-color: white;
+    padding: 25px;
+    max-width: 350px;
+    box-shadow: -2px 5px 15px hsl(220, 15%, 55%);
+}
+
+.big{
+    color: hsl(218, 44%, 22%);
+}
+
+.small{
+    color: hsl(220, 15%, 55%)
+    
+}
